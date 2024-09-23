@@ -2,6 +2,7 @@ from django.test import SimpleTestCase
 
 from app import calculator
 
+
 class CalculatorTest(SimpleTestCase):
 
     def test_add(self):
